@@ -104,11 +104,14 @@
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | What do students say about Prof. Alfaro's exams in ICS 31? | Exams are frequent, split between lab and lecture. Retakes are allowed but harder. | Correctly notes that she isn't as bad as rumored, provides ample extra credit, and grants two exam retake tickets. | Relevant | Accurate |
+| 1 | What do students say about Prof. Alfaro's exams in ICS 31? |
+ Exams are frequent, split between lab and lecture. Retakes are allowed but harder. |
+Correctly notes that she isn't as bad as rumored, provides ample extra credit, and grants two exam retake tickets. | Relevant | Accurate |
 | 2 | What is the prerequisite for ICS 45C? | ICS 33 or EECS 40 with a minimum grade of C | Discusses student anxiety transitioning from 33 to 45C instead of listing hard requirements. | Off-target | Inaccurate |
 | 3 | What topics does ICS 46 cover that ICS 45C does not? | AVL trees, graphs, skip lists, minimax algorithm, priority queues, smart pointers, templates | Pinpoints a thread asking what they teach, but references looking at Thornton and Pattis' websites instead of listing specific technical topics. | Partially relevant | Partially accurate |
-| 4 | What is Professor Thornton's grading structure for ICS 33 | I don't have enough information on that. (The provided documents contain grading and review data for Professor Thornton in ICS 32 and ICS 45C, but do not contain syllabus details or grading breakdowns for his section of ICS 33.) | | | |
-| 5 | What do students recommend for surviving ICS 31? | Students recommend being proactive with assignments because they are easy to miss, and preparing for mandatory class attendance. For the course material or testing, it is highly recommended to study using the practice exams from previous ICS 31 courses, as the actual exam questions are historically very similar | | | |
+| 4 | What is Professor Thornton's grading structure for ICS 33 | I don't have enough information on that. (The provided documents contain grading and review data for Professor Thornton in ICS 32 and ICS 45C, but do not contain syllabus details or grading breakdowns for his section of ICS 33.) | I don't have enough information on that. | Relevant | Accurate |
+| 5 | What do students recommend for surviving ICS 32? | Students recommend being proactive with assignments because they are easy to miss, and preparing for mandatory class attendance. For the course material or testing, it is highly recommended to study using the practice exams from previous ICS 31 courses, as the actual exam questions are historically very similar | A response summarizing different methods students used to prepare for the course including starting projects early
+and expecting more difficult classwork from its prerequisite. | Relevant | Accurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -129,7 +132,7 @@
      results from an unrelated review" is an explanation. -->
 
 **Question that failed:**
-     What is the prerequisite for ICS 45C
+     What is the prerequisite for ICS 45C?
 **What the system returned:**
      Instead of returning the factual course requirement listing, the system extracted casual conversational chunks from student discussion posts (reddit_ics33_to_45c.txt and reddit_45c_and_46.txt) detailing how difficult the classes are to pass and whether students should take a quarter off to study.
 **Root cause (tied to a specific pipeline stage):**
