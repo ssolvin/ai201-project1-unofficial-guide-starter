@@ -1,0 +1,28 @@
+SOURCE: reddit_ics45C_difficulty
+COURSE: ICS 45C
+TYPE: reddit_thread
+
+POST: ICS 45c Difficulty
+
+I am taking 45c next quarter and I wanted to know how difficult the class is with Klefstad. I am coming out of ics 33. Is it a jump learning C++ in one quarter or is it doable? Thanks in advance.
+
+COMMENT:  If you are coming out of 33 and don't have any other experience with C++ it's gonna be a rough time.
+
+Kleftstad doesn't teach much, all he does is go over the concepts on a Google Doc once and then you have to figure everything out on your own. He really is a mess for lectures it feels.
+
+For me it wasn't that bad as I knew C++ before taking 45c but for everyone else in the class I imagine it's been difficult.
+
+The quizzes have been hit or miss, but they can be super annoying cause one or two small mistakes makes an entire 30 point section worthless.
+
+Homework is ok, the projects aren't that long and will probably be better than your quiz grades which is a plus, but having to figure out everything on your own is not. 
+
+COMMENT:  Its a Klefstad class so odds are you're going to be teaching yourself anyways. If you play around with the language a bit before the quarter starts you will be fine 
+
+COMMENT:  I took C++ at a CC but I had to retake it here, I took Klefstad thinking it was going to be a walk in the park; its the hardest programming class I've ever taken.
+
+You have to really learn what everything in C++ does, not just know how to write the programs. Those pointers are killer when he makes you run them on a program to prevent memory leaks. And the hand written quizzes are remarkably hard because every little mistake gets 5 points off.
+
+Advantage - I really learned what C++ does and how to actually allocate memory properly. Learned Linux as well.
+
+Cons - That final was ridiculously hard. Studied hella and still probably got a D. 
+

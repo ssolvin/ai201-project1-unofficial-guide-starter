@@ -1,0 +1,31 @@
+SOURCE: uci_catalog_ics_courses
+COURSE: ICS 31, ICS 32, ICS 33, ICS 45C, ICS 46
+TYPE: official_catalog
+
+I&C SCI 31. Introduction to Programming. 4 Units.
+Introduction to fundamental concepts and techniques for writing software in a high-level programming language. Covers the syntax and semantics of data types, expressions, exceptions, control structures, input/output, methods, classes, and pragmatics of programming.
+Prerequisite: None. First consideration for enrollment: Computer Science and Engineering majors and School of ICS students.
+Satisfies: GE II and GE Vb.
+
+I&C SCI 32. Programming with Software Libraries. 4 Units.
+Construction of programs for problems and computing environments more varied than in I&C SCI 31. Using library modules for applications such as graphics, sound, GUI, database, Web, and network programming. Language features beyond those in I&C SCI 31 are introduced as needed.
+Prerequisite: I&C SCI 31 with a minimum grade of C.
+Satisfies: GE II and GE Va or Vb.
+
+I&C SCI H32. Python Programming and Libraries (Accelerated). 4 Units.
+Introduces Python syntax and semantics for fundamental programming concepts. Constructing programs for varied problems and environments. Using library modules for applications such as graphics, sound, GUI, database, Web, and network programming. Accelerated course for students with previous programming background.
+Prerequisite: AP Computer Science A with a minimum score of 3, or placement via transfer course.
+
+I&C SCI 33. Intermediate Programming. 4 Units.
+Intermediate-level language features and programming concepts for larger, more complex, higher-quality software. Functional programming, name spaces, modules, class protocols, inheritance, iterators, generators, operator overloading, reflection. Analysis of time and space efficiency.
+Prerequisite: I&C SCI 32 with a minimum grade of C or I&C SCI H32 with a minimum grade of C.
+Satisfies: GE II and GE Vb.
+
+I&C SCI 45C. Programming in C/C++ as a Second Language. 4 Units.
+An introduction to the lexical, syntactic, semantic, and pragmatic characteristics of the C/C++ languages for experienced programmers. Emphasis on object-oriented programming, using standard libraries, and programming with manual garbage collection.
+Prerequisite: I&C SCI 33 with a minimum grade of C or EECS 40 with a minimum grade of C.
+
+I&C SCI 46. Data Structure Implementation and Analysis. 4 Units.
+Focuses on implementation and mathematical analysis of fundamental data structures and algorithms. Covers storage allocation and memory management techniques.
+Prerequisite: I&C SCI 33 with a minimum grade of C and I&C SCI 45C with a minimum grade of C.
+Satisfies: GE Vb.

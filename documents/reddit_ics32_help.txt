@@ -1,0 +1,59 @@
+SOURCE: reddit_ics32_help
+COURSE: ICS 32
+TYPE: reddit_thread
+
+POST:  Hey I’m taking ICS 32 and I’ve been struggling a lot recently with the class. It’s like when I go to class I understand the base level of what is being taught but the next day at the lab like I’m so confused on how to implement what I learned from lecture. Also the labs seem really tough sometimes but that might just be me. I was wondering if anybody has any tips on how to get through the class and on how to improve coding skills. I’m a freshman and don’t have any prior experience before with coding. Also I was wondering if there’s any other people out there who are in the same boat and would like to create a study group or something. Just msg me if you’re interested. Thanks. 
+
+COMMENT:  hi! are you in the ICS 32 discord? that’s been super helpful to me so far 
+
+COMMENT:  Just ask TA for help. Find study group. Youtube is always the best. You have a lot of resource right now. As long as you willing to try, you will make it. ICS30s are tough I agree, but later will harder. 
+
+COMMENT:  It is normal. Grinding keep grinding. I do not know if this is a good advice or not. Think this class as your life depends on it. Keep pushing 
+
+COMMENT:  ICS 32 is part of the intro series. You can try and find tutors and such, but it’s kind of a weeder class. Most ppl that don’t do well in the 30 series won’t end up far in the cs path 
+
+COMMENT:  Go to every office hours, like even if you don’t need help just go so u can sit there and work. Bc then if you get stuck there are people in the same room who know better than you and are there to help. 
+
+COMMENT:  Hey, don't panick.
+
+I don't know what project you're doing right now, nor I know who's the professor(s) teaching ics 32. I did those classes a while ago, I remember struggling a bit in 32.
+
+I had a lot of trubles in the first 4 weeks. I was not a big enjoyer of OOP (I 'm more of a functional programming type) and I couldn't understand it that well.
+
+I started with watching videos about OOP and following a crazy amount of youtube tutorials.
+
+What worked the best for me was forcing myself to write some little program in whatever I was not understanding (either OOP, TKinker, socket) and push myself a tiny bit more untill I could predict what a program would do without running it.
+
+If you get stuck on some specific thing, try to figure out how to do it yourself first. Google is your best tool, check geeks4geeks, stackOverflow, and any other website that explain what you need. Don't blindly copy-paste in your code, you won't do any good to yourself. If you are still stuck, then I'd ask directly help to someone. Professor and friends can share alot, and you will learn alot from others.
+
+Also, talk to your professor! I had Badwin and he helped me ALOT. Whoever is your professor will give you some good advice, but be sure to know what you're not understanding; and the best way to know this is by trying.
+
+Last thing. The best way to be good at writing software, is to write ANY software costantly. It doesn't matter, do little side projects. A calcualtor or a file manager is a good start.
+
+Once you start building more complex stuff, don't be afraid to have some shitty code at first. You will be refractoring later and make it pretty after, focus on making something working first.
+
+Get curious, find what you like, what you enjoy and build stuff for fun. We all start from somewhere.
+
+Once you figure out what you like and you understand how to build simple stuff, I ensure you that ics32 will become one of the best and easiest classes you'll take. I loved it
+
+Good luck, and feel free to contact me. 
+
+COMMENT:  I'm an LA for ICS32/32A this quarter - keep coming to labs! LAs have all taken the class before so we can give you a good idea of what to expect, and we're always happy to help you with whatever assignment you have. As for the TAs confusing you - if a TA doesn't work for you, you can always attend a different lab section with a different TA and try asking them. Sometimes you just don't click with a TAs way of explaining things, and thats normal. 
+
+COMMENT:  look up some youtube videos. Some of them have amazing tutorials that just "click" right with your thinking. Also coding is quite technical so practice coding even if it's just random simple stuff. 
+
+COMMENT:  Thanks. I think I’ll start looking into YouTube videos. To practice coding do you have any websites in mind that can provide me with practice problems and stuff? 
+
+COMMENT:  totally my opinion but I personally never used online courses/websites as they go too slow and arent worth doing while doing school, maybe if you want to pick up some skills outside of school but I would recommend going to ICS tutoring. The TA/professor dont really prioritize students at all but the ics tutors, They are really good and they took the same classes we take, and they did well in them so they know the course content best so they can help you quickly and effectively. I dont know their names but its the same bunch of people and they are pretty useful. Also I think if its your first programming language, its always the hardest but once you learn one and you become good at it, the rest is just learning syntax. If you have a base level understanding, I would assume you may not understand the problem completly (which was me and many others as well)one of the hardest parts in programing is not the code itself but understanding either the problem, or the solution and how you get to it. 
+
+COMMENT:  I’m kinda in the same boat as well :). I feel like it’s definitely a jump from ICS 31 to 32 and the only reason I’m pulling through right now is a bit of previous knowledge from clubs, doing well in ICS 31 and personal learning. Currently debugging assignment 1 🫠.
+
+Also Thornton and Baldwin have ICS 32 websites. Both give lecture/topic summaries as well!
+
+At least with moshirpour, I think his examples are really good, and I’m planning on using them/lectures as examples to better my coding as I go along. Imani is also a great TA. He explained recursion to me pretty well. I’ll msg you about a study group! 
+
+COMMENT:  The ICS Tutoring Center has been really empty this quarter. It’s staffed by students who have completed your assignments.
+
+You should check it out! Totally free & drop in when it works for your schedule.
+
+sites.uci.edu/icstutoringcenter

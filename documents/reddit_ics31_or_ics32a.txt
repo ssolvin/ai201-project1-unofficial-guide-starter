@@ -1,0 +1,69 @@
+SOURCE: reddit_ics31_or_ics32
+COURSE: ICS 31
+TYPE: reddit_thread
+
+POST: ICS majors pls help me !! ics 31 or ics 32a??
+
+so i just went to spop and one of the counselors recommended I should take ics 31 instead of ics 32a with prof thornton. the prof for ics 31, alfaro, had way worse reviews than thornton. i am technically allowed to take ics 32a because I got a 3 the apcsa on it, but since my score was low she wanted me to take ics 31. idk what to do, I have not coded in 2 yrs, however, I think my critical thinking skills have improved compared to when I took that ap exam in my soph yr. also, the fact that i paid to take the ap exam just to not use my credit seems like a waste of money to me. does anyone still recommend taking ics32a bc that was my original plan, but now i am enrolled in ics 31.
+
+tldr: counselor recommends me to take ics 31 instead of ics 32a because my ap score was only a 3. however, my study habits and responsibility have grown since my soph yr of high school when i took that ap exam. and ics 31 prof does not seem as good as ics 32a prof. pls help me pick which course to stay in!
+
+COMMENT: If you take 32a then i HIGHLY recommend learning basic Python before school starts because Thornton is not easy.
+
+In 31 you learn python syntax, conditionals, loops, functions, nesting, files... some other things i can't remember but this is one of Alfaro's old Canvas pages and I doubt it has changed much since then https://canvas.eee.uci.edu/courses/28059/assignments/syllabus. UCI students get Udemy for free so you can look for a Python course on there.
+
+IMO 31 is not that hard bc there are a lot of collaborative labs and practice assignments to help you master the concepts... python is one of the easier languages to learn so 31 will probably feel like a lot of hand holding if you remember what you learned in APCSA 
+
+COMMENT:  i just enrolled in ics32a! since i feel unconfident I'm definitely going to review python though. i think it will be okay tho bc I went to sorta difficult hs so im hoping they traumatized me enough so this class feels like normal xD. i think I remember the basics of coding and like boolean, for loops, if, else?? 
+
+COMMENT:  Definitely review and get the basics of Python down this summer, if you know one language then you can learn other languages easily.
+
+But if want to have a strong foundation in Python, that's when taking 31 would be the better option. If you decide to switch back to 31, I would recommend doing it before the SPOP sessions end to make sure there are spots left. 31 fills up before 32a 
+
+COMMENT:  I was a learning assistant for ICS 31 with Professor Alfaro. I have to say Professor Alfaro is not that bad. She always use cute filters during zoom classes and she is always passionate about teaching. ICS31 is a pretty easy class and I believe with your coding experience you can get an A easily cuz before I took her class I knew nothing about coding but I ended up with an A+. 
+
+COMMENT:  cute filters kekw askdjklasdjl. i feel like ics 31 wont be a huge challenge compared to ics32a. i think a lotta ppl are saying it'll feel like a safe space bc i kinda know the basics already. oh well i think its worth taking ics32a tho bc i can take one less class 
+
+COMMENT:  I don’t know about 31 but I took 32A two quarters ago and I believe that the class is not an easy A but if you do what is required diligently, you can get a good grade. The last two projects and the final in ICS 32A are extremely difficult (total projects: 5) but other than that, if you understand the material, you should be fine. Thornton explains things very well and I would say that the pace of the class is manageable. If you read his notes carefully and do the weekly homework, you shouldn’t have too many problems. 
+
+COMMENT:  honestly im not expecting to always get an A, bc C's get degrees LOL. if the class is manageable without knowing python prior to taking it, then it think I would rather take ics32a, what do u think? 
+
+COMMENT:  It is okay if you don’t know python because the point of 32A is to teach basic python in the first two weeks and then progress into other python related stuff (this is why the class is fast paced). Since you are okay with the grade part, I would recommend taking this class! 
+
+COMMENT:  sweet! do u have any of the basic python material he taught u in the first two weeks so I can get a head start? 
+
+COMMENT: https://www.ics.uci.edu/~thornton/ics32a/index.html this is the link from fall of 2021. Thornton usually has all his materials online and they are open to all! 
+
+COMMENT:  LOL ive already been given this link before but I was wondering if there was like a slideshow with basic examples of code in python? or something like that bc u said u learn python right? idrk where on the website you learn python 
+
+COMMENT:  Thornton doesn’t use slideshows, the “Notes and examples” section is what he uses to teach the entire course. If you take a look at the notes for the first couple weeks, you will see that it starts off with basic stuff. The first thing on week 1 is python basics, and I believe that those should help get a start! 
+
+COMMENT:  thank you for being so helpful i appreciate it! when I clicked the notes and examples link thing it made an error before but someone else sent me the link so it works now?? LOL, ty again :D 
+
+COMMENT:  both classes have their pros and cons I guess. sorry for the longer read, just wanted to answer you thoroughly as I had similar issues 2 years ago.
+
+If you take ics31, you get to brush off your python skills for a quarter and ease your way into college coding. Ive had Alfaro for 31 (fall 2020 so maybe her class design changed a bit), but I actually felt that she was quite lenient, we got to drop one of our coding tests, and replace it with a project about libraries. Your other project will most likely be coding just the logic of 2048, which isn't too bad. It may be good to remember that a lot of the negative reviews come from people who simply didn't do well from the class, or other majors who took the class hoping for [a higher grade? an easier class? less workload? idk]. All in all, im not saying she was a good professor, but she is definitely an okay professor at the very least. I never coded prior to ics31, and I managed in Alfaro with some office hours/TA hours. Don't be too swayed by bad reviews!
+
+For thornton, I never had him for ics32 but I had him for ics46. He is a pretty good lecturer. The rigor level for his 32 should be moderately harder than ics31, but I believe you could still manage it. You should probably review a bit for 32.
+
+COMMENT:  I got a 3 on apcs and took ics 31 last year. Only reason why Alfaro has a low score is because people can’t stay on top of their work and whine, I thought she was a good professor. With your experience the class won’t be too difficult however you will learn some useful stuff that will help you out for 32 
+
+COMMENT:  If you have any doubt, just take ICS 31. Give yourself time to ramp up and build a solid foundation for your career. You won’t be behind. For reference, I switched majors into ICS. Took ICS 31 my 2nd quarter, and I still graduated in 3 years and 1 quarter.
+
+Point is, it’s not a race. Unless you feel like you can study and really grasp ICS 31 concepts before summer ends, play it safe and take ICS 31. Don’t start your career on a weak foundation. Start slowly and do it right. 
+
+COMMENT:  just do 31, ur gonna wanna socialize a bit your freshman year and making those connections is honestly more important 
+
+COMMENT:  you seem very determined so i’d say to go for it. its all about what you want; i took 31 bc i wanted to secure an A and build a strong foundation. i liked alfaro too and the way her curriculum was structured, but much of the class felt easy since i took apcsa. college level coding classes are also much faster paced and require self learning, so you should take all that into account, but i would definitely say to challenge yourself with 32a 
+
+COMMENT:  I highly recommend taking 32a mainly due to Thornton. He’s one of ics’s best professors and you will come away from that class learning a lot.
+
+To be honest, ics 32a is designed around people without any python knowledge.
+
+You are expected to have the problem solving skills that an ap cs student should have, but the still teach python from the ground up. I don’t think you need to be that scared, nor do you need to brush up your python skills.
+
+Just make sure to manage time appropriately and make sure to understand concepts. 
+
+COMMENT:  maybe I’m a boomer since I graduated but thru my 4 years everyone said to avoid ics 31 because Alfaro is a nightmare and Thornton is widely held as the goat professor of ics. I never actually took ics 31 or 32a because I took the placement test for 31 and took Herman’s for 32 so idk what the workload is like for 32a w Thornton. But from word throughout my years you probably will get a better education from Thornton as he is a great professor. Take 32a you got this as long as u commit to learning the material you will pass. 
+
+COMMENT:  For 32a, it’s not just about content. You need to have strong time management skills to pass!! The majority of your grade is based on 5 projects that you have about 10 - 14 days to complete! Thornton is personally my favorite ICS professor and make use of your lab time!

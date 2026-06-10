@@ -1,0 +1,33 @@
+SOURCE: reddit_ics31_cbe
+COURSE: ICS 31
+TYPE: reddit_thread
+
+POST: Difficulty of the ICS 31 Credit by Exam
+
+How difficult is this exam? I have little to no prior knowledge when it comes to Python and I dont know if its possible to self-study for this and get an A on it.
+
+COMMENT:  Personally, I have never taken it since I had no experience with python or tuples, but I did have experience in other coding languages which is why I considered it.
+
+I have now taken ICS 31 and am currently in ICS 32. To be honest, I'm really glad that I didn't test out of ICS 31 even if it did feel a bit easy and slow at times. I'm pretty sure I would have missed some key functions and necessary information needed for ICS 32 otherwise.
+
+My point is, if you are new to python, I would not really recommend testing out unless you are extremely worried about getting into the class. The experiences from the class are a great way to set you up for the next classes.
+
+In the end, follow your instincts :) 
+
+COMMENT:  Thank you so much for the detailed response! And yes, thats exactly why I’m trying to test out of it, since its so difficult to enroll into the class as a non-cs major. If you don’t mind me asking, was it difficult for you to enroll into ics 31 ? 
+
+COMMENT:  My major is in the school of CS, so I had no issues signing up, luckily (the class gives priorities to those already in the school)
+
+COMMENT:  When I took it (2018, so things might have changed), I studied using the practice exams from Kay's ICS 31 course and found that the questions on the actual exam were pretty similar. I was already familiar with Python then, but I think with enough study you should be able to get a good score. If you need any help, feel free to ask me. :) 
+
+COMMENT:  Thank you so much for the resources ! Will definitely look over them when I study for my exam. If you don't mind me asking, did you also take the ICS 31 credit exam because it's difficult to enroll into the class? 
+
+COMMENT:  I came in as a comp sci major so I had priority for enrolling in the class, but I had already taught myself Python in high school so I took the exam because I didn't want to take ICS 31 to learn Python all over again. 
+
+COMMENT:  I had no experience ever, got a b- I think, took it in winter 2019 with the in person labs and the paper finals you’ll be fine just put the effort 
+
+COMMENT:  Was there a curve on the exam? 
+
+COMMENT:  I have to be honest I don’t really remember, I want to say yes but I do remember people were giving Alfaro a bad wrap but I forget if it was for that or just how the course was 
+
+COMMENT:  There had to have been because I remember the average for in lab exams was 3/4 almost every time 

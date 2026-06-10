@@ -1,0 +1,10 @@
+SOURCE: reddit_ics45c_klefstad
+COURSE: ICS 45C
+TYPE: reddit_thread
+
+POST: How's I&CSci 45C with Klefstad?
+I'm trying to take Klefstad's 45C this coming spring quarter and i wonder how hard it would be. Can anyone tell me if it's doable? I forgot a lot of part of coding because i just finished with my one and a half year of army service. I need you guys' word pls help
+
+COMMENT:  Pretty good, hard but honestly it’s a class that you need to be strict and hard on. To quote klefstad, “Don’t look for the easiest A, look for a class that will further your skill set so you can get As’”. A lot of your upper divs will be based on what you learn in 45c and 46 so try to really lock in for those, especially if you can get a prof who gives a damn about teaching like klefstad or Shindler. It’s very doable if you apply yourself but it is HARD. like 4-6 hrs a week outside of lecture/discussion hard especially if you forgot how to code 😅😅. But you’ll thank yourself later, oh and for your sake don’t cheat or use ChatGPT, he will catch you 😊. There’s no shortcuts to it so yeah… also, pretty similar situation to ya, especially since I also had time away from school. I don’t regret taking classes with Klefstad at all. Oh and beware if you don’t pass his final you don’t pass the class, like I mentioned he’s hella strict
+
+COMMENT:  Took cs 45, 46, and cs 141 w him, easy af. Jokes, I definitely think he’s easier than Shindler. But not impossible. To me I rate difficulty a 4 out of 5 if you never coded in C, but difficulty came down to a 3.5/5 once I put in effort

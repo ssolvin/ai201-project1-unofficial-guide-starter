@@ -1,0 +1,20 @@
+SOURCE: antalmanac_ics31
+COURSE: ICS 31
+TYPE: course_overview
+
+COURSE DESCRIPTION
+Introduction to Programming. Introduction to fundamental concepts and techniques for writing software in a high-level programming language. Covers the syntax and semantics of data types, expressions, exceptions, control structures, input/output, methods, classes, and pragmatics of programming. 4 units. Lower Division. Satisfies GE II and GE Vb.
+
+ENROLLMENT AND GRADES
+Total enrolled historically: 11,936 students. Average grade: B (3.2 GPA). 586 students enrolled as P/NP.
+
+PREREQUISITES
+Requires: I&C SCI 31 has no prerequisites. It is a prerequisite for I&C SCI 32 among many other courses.
+
+INSTRUCTOR RATINGS (AntAlmanac)
+Shannon L Alfaro: Course Rating 2.60/5 | Difficulty 2.80/5 | Would Take Again: 20%
+
+REVIEWS
+
+Quality: 4 | Difficulty: 3 | Grade: A- | F24
+She is a nice professor but there are many assignments that are easy to miss if you are not proactive. Mandatory attendance, lots of homework, group projects, extra credit available.

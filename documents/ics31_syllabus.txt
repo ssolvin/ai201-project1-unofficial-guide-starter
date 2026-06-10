@@ -1,0 +1,60 @@
+SOURCE: ics31_syllabus
+COURSE: ICS 31
+PROFESSOR: Richard Pattis
+TYPE: syllabus
+
+COURSE OVERVIEW
+
+ICS 31: Introduction to Programming teaches the general principles of programming using Python. The course assumes no prior programming experience but moves at a quick pace. Students should be prepared to work hard.
+
+The course covers three main areas:
+- Algorithmics: tokens, simple types, variables, expressions, exceptions, control structures
+- Abstraction: functions, compound types (strings, lists, sets, maps, classes), methods, modules
+- Analysis: correctness, testing/debugging, efficiency (big-O notation), style
+
+The three-course sequence is summarized as: ICS 31 = learning to drive, ICS 32 = road trips, ICS 33 = car mechanics.
+
+WORKLOAD AND TIME COMMITMENT
+
+The course moves at a quick pace. Students with no prior programming experience should expect to struggle with the material. The primary reason students fail is falling behind — even a small misunderstanding can quickly grow due to the cumulative nature of the course.
+
+Students are expected to attend class daily. Attendance has a strong correlation with understanding the material and final grade.
+
+ASSIGNMENTS
+
+Programming Assignments: 6 full assignments plus 2 shorter ones. Programs are typically assigned on Thursdays and due the following Thursday at 11:30pm. Students often work in pairs (pair programming).
+
+Early submission earns extra credit: 1 point for submitting 24 hours early, 2 points for 48 hours early. No late work is accepted under any circumstances — submit whatever you have finished by the deadline.
+
+Quizzes: 8 take-home quizzes, distributed Fridays and collected Mondays. Open-book and open-computer, but no collaboration allowed.
+
+EXAMS
+
+Written Exams: One midterm and one final, both closed-book. Problems are similar to homework and quizzes. Cramming is not effective — too much material is covered during the quarter.
+
+In-Lab Programming Exams: Taken during lab sessions. First exam focuses on functions and control structures; second on compound data types. Closed-book, but Python library documentation is allowed. Graded 90% on correctness.
+
+GRADING
+
+Quizzes: 8 × 25 pts = 200 pts (20%)
+Programming Assignments: 300 pts total (30%)
+Midterm Written Exam: 150 pts (15%)
+In-Lab Programming Exams: 150 pts (15%)
+Final Exam: 200 pts (20%)
+
+Grading scale (no curve):
+A: 90–100% | B: 80–89% | C: 70–79% | D: 60–69% | F: below 60%
+
+Programming assignments are graded liberally; quizzes and exams are graded conservatively. Roughly 25% of students earn each letter grade — but this is not a mandated curve, just a historical expectation.
+
+GETTING HELP
+
+Office hours are available for individual or small group meetings. Students having problems are strongly encouraged to visit immediately — early intervention often raises performance by a full letter grade.
+
+TAs and Lab Tutors are available during all lab sessions to help debug programs and explain concepts. They will guide you toward solutions but will not write your programs for you.
+
+The ICS tutoring center and MessageBoard forums are also available for questions of general interest to the class.
+
+PROGRAMMING ENVIRONMENT
+
+The course uses Python with the Eclipse IDE. All software is free. Students are expected to use their own computers for most work but must also know how to use ICS lab machines for in-lab programming exams.

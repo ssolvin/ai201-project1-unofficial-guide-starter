@@ -1,0 +1,35 @@
+
+
+
+POST: What does ICS 45C and ICS 46 teach?
+
+So I'm not sure if I should take these classes because I don't want to waste time if I don't have to, and the course descriptions don't go into detail on what's actually covered. Can someone share their account on what they learned in ICS 45C/46?
+
+Yes, I know 45C teaches C++, but how far does it go? Modern C++? STL? Smart pointers? Template/Meta programming? Function Pointers? Etc?
+
+Most data structures classes seem to cover linked lists, stacks, queues, binary trees, and graphs (I might be missing one). All of which I've already learned with C++. Does ICS 46 go beyond this? The course description mentions memory management, can someone elaborate on this?
+
+I know C++ isn't easy (okay, it's hard) and some people may feel like they need to talk me out of skipping such hard classes for whatever reason. I welcome any warnings or words of advice, but I would really appreciate it if we can stick to the actual material covered so I can make my own desicion. I do have transfer credit, but it's from a community college. Thank you!
+
+
+COMMENT:  Smart pointers and template programming is more 46 than 45c. In 45c you get a small introduction into those concepts.
+
+I took Thornton for both 45c and 46, both really good classes, imo. If you can skip C++, 45c, then sure by all means skip it. But you best have a good handle on pointers, and classes (like polymorphism and abstract classes). However, I don't recommend skipping 46 as it's arguably the most important class for CS majors at UCI.
+
+In 46, you'll go over depth and breadth traversal, the minimax algorithm, AVL trees, Skip lists, Hashfunctions, graphs priority queues and a few other things. 
+
+COMMENT:  45C introduces the concept of pointers, memory management, and a few other things that need to be considered in C++ that is taken care of in python. 46 builds on 45C by using C++ to build data structures and implement algorithms.
+
+So 45C is basically about learning a new language but also has some other fundamental CS concepts that you use in 46 
+
+COMMENT:  Not sure how much C++ you know, but taking 45C (with Klefstad) and 46 (with Thornton) made me feel confident in the language.
+
+45C consisted of learning things like pointers, memory management, etc. Specifically we wrote the string class and methods several times for homework each with a twist - I believe once using dynamic memory, another with linked lists, etc. Towards the end we worked on things like iterators and went through some of the standard library (he teaches you C++ first, then gradually makes things easier by showing you standard library). Really useful class and Klefstad really hammers concepts in with weekly homework and quizzes.
+
+46 with Thornton is a GREAT class, specifically learning about graphs, trees, queues, stacks, etc. He also covers topics like smart pointers, templates, RAII, and many more. You should check out his website because it really is a great class. His projects are top notch, specifically things like the maze generator (graph traversal) and the othello AI online tournament (game theory, more traversals).
+
+If you think you can write those string classes and methods easily right now, you can probably skip 45C. My recommendation is to not skip 46 because I am sure he is covering concepts that you will not get exposed to otherwise. 
+
+COMMENT:  I HIGHLY recommend you search up Thornton's ICS 45c website and Pattis' ICS 46 Website. Just look for the notes section and you can see all the topics and skim through them. I would tell you but I'm taking them in the upcoming weeks quarters.
+
+Hope this helps! 

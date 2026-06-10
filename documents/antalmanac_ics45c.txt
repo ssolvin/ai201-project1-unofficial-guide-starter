@@ -1,0 +1,22 @@
+SOURCE: antalmanac_ics45c
+COURSE: ICS 45C
+TYPE: course_overview
+
+COURSE DESCRIPTION
+Programming in C/C++ as a Second Language. An introduction to the lexical, syntactic, semantic, and pragmatic characteristics of the C/C++ languages for experienced programmers. Emphasis on object-oriented programming, using standard libraries, and programming with manual garbage collection. 4 units. Lower Division.
+
+ENROLLMENT AND GRADES
+Total enrolled historically: 9,411 students. Average grade: B (3.1 GPA). 112 students enrolled as P/NP.
+
+PREREQUISITES
+Requires: I&C SCI 33 with a minimum grade of C, or EECS 40 with a minimum grade of C. Is a prerequisite for I&C SCI 46 among other courses.
+
+INSTRUCTOR RATINGS (AntAlmanac)
+Michael Shindler: Course Rating 5.00/5 | Difficulty 4.00/5
+Raymond O Klefstad: Course Rating 4.00/5 | Difficulty 2.00/5
+Overall: Course Rating 4.50/5 | Would Take Again: 50% | Difficulty 3.00/5
+
+REVIEWS
+
+Quality: 4 | Difficulty: 2 | Grade: A+ | Klefstad Sp23
+Busywork: the class. A reading quiz, a homework, and a homework quiz every week. Class itself is chill, and Klefstad really hammers in C++ like your life depends on it (-5 per syntax error on the homework quizzes!). Lectures are entertaining, though he can and will go off on a tangent about the most random of topics. Overall a pretty solid ICS 45C.

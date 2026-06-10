@@ -1,0 +1,256 @@
+SOURCE: rmp_alfaro_ics31
+COURSE: ICS 31
+PROFESSOR: Shannon Alfaro
+TYPE: rmp_reviews
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: B | Jun 2026
+Terrible lecturer with mandatory attendance. Basically you go to lecture and spend time with some random students to work on hard tasks that are due the end of class. 8 exams total, 4 lab and 4 in lecture, and 2 mandatory labs per week. A lot of work for a course which should not be so hard. ICS 32 and 33 is easier than this one I promise.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: A- | Jun 2026
+Exam scores are really important for this course. Try to avoid using retake exams, because those retake exams are harder than the original ones.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: B | Mar 2026
+Honestly, she's a good teacher. Very enthusiastic, but I learned more from Zybooks than her lectures. She has midterms every other week, 1 lab and 1 lecture/theory exam. Allows 2 retakes for the entire quarter.
+
+Quality: 3.0 | Difficulty: 2.0 | Grade: B+ | Mar 2026
+Learned nothing from the lectures, class relies on Zybooks which is very straightforward. Exam every other week. Lecture exams are more challenging and test terminology. Lab exams test your ability to code and are based on labs. Got a B because I failed a lab exam due to the auto grader having bugs.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: A | Mar 2026
+Easy content doesn't mean the professor deserves a good rating. Even though she is very enthusiastic, she doesn't really know how to teach. I talked to a lot of people in my class but nobody actually appreciates this class.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Mar 2026
+Amazing professor. There is a lot of work, but there are many opportunities to improve your grade. There are test retakes and extra credit opportunities. If you attend lab and lecture everyday, do the homework, study a little, and go to office hours you are guaranteed an A+.
+
+Quality: 5.0 | Difficulty: 2.0 | Grade: B | Mar 2026
+I took Alfaro in Fall 2025. I don't understand why there is so much hate for her. She is probably the most forgiving professor in STEM you will ever have. You can literally retake her exams for a better score, and the retakes aren't even really harder than the original exams. Amazing prof and easy class if you look over all resources given.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A- | Mar 2026
+I don't understand the hate around Alfaro. Maybe because ICS 31 is a hard class in general for first-timers. Most classes in college are self-teach and freshmen are not used to that. Alfaro is very sweet and helpful in office hours. She also gives ample extra credit and 2 retake tickets for exams. Make sure to study extensively every week.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: A | Feb 2026
+This professor doesn't really teach anything. You have to spend $100 to buy the textbook and learn everything on your own. There are two quizzes every week, and if you mess up even once, getting an A becomes very difficult. There are only two opportunities to make up missed quizzes.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: A- | Jan 2026
+She claimed LA is a great resource for helping us study, but a large number of them do not explain questions at all, or give very vague answers. Which is even more frustrating for a course that is already difficult.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Not sure yet | Jan 2026
+Exams full of trivial questions, doesn't teach anything. Uses all her class time explaining confusing rules and systems she requires students to follow.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Not sure yet | Jan 2026
+A lot of busywork, complicated instructions and requirements but not effective at all. There is homework due every day, even including weekends.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Not sure yet | Jan 2026
+Very enthusiastic but has no idea how to teach.
+
+Quality: 1.0 | Difficulty: 3.0 | Grade: Not sure yet | Jan 2026
+Everything is self taught but attendance is still mandatory. Exams nearly every week and required to buy a $100 online textbook which is your only real source of learning.
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: A | Jan 2026
+If this was my first experience taking a CS course I'd probably cry. Alfaro is a nice woman but I don't know if this class is really effective at teaching.
+
+Quality: 2.0 | Difficulty: 4.0 | Grade: Not sure yet | Jan 2026
+The structure of the course is just so chaotic. The retake opportunity had been cut in half.
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: A+ | Jan 2026
+No prior experience with Python, never coded. She gives 4 retake opportunities for 8 exams, and I didn't even use them all. If you took the time to read over the material and practice with her past exam questions, you should be fine for the lab exams. The lecture exams were basically just vocab-based.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: C+ | Dec 2025
+Everything is self taught, still mandatory attendance. Two tests every two weeks, labs are hard and lectures are not helpful. Please do yourself a favor and don't take her unless you want to learn everything on your own.
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: A | Dec 2025
+She's a nice person and decent lecturer depending on her mood. If she's in a bad mood, she literally ends class if someone doesn't answer her questions and leaves you to learn on your own. The class is easy if you have previous Python experience but pretty difficult if you don't.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C+ | Dec 2025
+For an intro class, she didn't teach anything. The class was very test heavy and she wasn't helpful when asking for help.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C+ | Dec 2025
+Essentially had to teach myself 95% of the material. The workload was heavy and exams were frequent. She is harsh and unreasonable. The Zybook was helpful.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C- | Dec 2025
+She seems nice, but the class structure wasn't beginner friendly. Attendance is mandatory every day. Assignments due everyday. Labs were hard and lectures were not helpful. Bi-weekly exams were very stressful. The workload made it hard to keep up.
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: A- | Dec 2025
+The professor was friendly and taught okay, but I didn't like the structure of the class and the TAs were unhelpful. Two exams every other week and class was mandatory every day. The labs were way harder than the material taught in class.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C- | Dec 2025
+Alfaro seems like a really nice lady but this class sucks. She doesn't teach well and the TAs and LAs are useless. Did not learn anything, super hard tests. Ended up finishing the 30 series through community college.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: A- | Dec 2025
+RUN AS FAST AS YOU CAN. If you're not a major or don't need this class as a prerequisite, there is zero reason to torture yourself for ten weeks. Professor and TAs are helpless.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C | Dec 2025
+I was excited to start learning Python during my first quarter at UCI, but felt the same disappointment many others had. Exams biweekly and expected to complete work every single day. TAs weren't very helpful via EdDiscussion.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: B | Dec 2025
+There are so many exams and tons of homework. The professor barely teaches, so it's basically all self-study.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Not sure yet | Nov 2025
+This has to be one of the worst classes at UCI. The classes require code memorization on briefly covered topics, which places a heavy burden on individuals with no coding experience. I was lucky to be knowledgeable in Python but still often struggled.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Nov 2025
+Subpar professor who lacks teaching skills. Self-studying is the only thing that'll help you as the textbook is almost useless, exams are weird, and the practice she provides doesn't really prepare you for them.
+
+Quality: 1.0 | Difficulty: 3.0 | Grade: A+ | Nov 2025
+She didn't teach class at all, you basically have to learn by yourself. The textbook is expensive and you need to take an exam nearly every week.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Not sure yet | Nov 2025
+Every lecture is a waste of time but participation is required. Class structure is very confusing, even the TAs and LAs are not on the same page about a lot of things. I learn more through Zybooks.
+
+Quality: 5.0 | Difficulty: 1.0 | Grade: A+ | Oct 2025
+Great professor! Collaboration matters. Improves relationships between students through group assignments and partners. Easy class overall.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Oct 2025
+I'm struggling in the class, and I have five years of programming experience in other languages. You would probably excel if you have a solid understanding of Python beforehand. If you don't, good luck.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Oct 2025
+Don't take her unless you have to. Lecture and lab are either group work or exams. She does not do anything but leave a bunch of work you need to do outside of class. The exams are heavy.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Oct 2025
+She teaches nothing but tests everything. We need to study everything by ourselves.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Not sure yet | Oct 2025
+Really bad way of teaching. 90% exams and 100% self study. Only 1 actual lecture per week, and 60% of that time is devoted to solving a paper. Teaching is done in office hours.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: Not sure yet | Oct 2025
+I LOVE HER! She's such a caring and great professor! If there is a chance I will definitely take her again.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Rather not say | Sep 2025
+Always bragging about her own stories and not lecturing anything useful.
+
+Quality: 4.0 | Difficulty: 2.0 | Grade: A+ | Sep 2025
+If you do and understand all the work and take advantage of the 4 retake opportunities (8 total exams), it was pretty easy to do well. For the coding exams, she gives practice problems that are very similar to those on the exam.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C- | Apr 2025
+There are two weekly tests, extremely low grades, useless classes, and she doesn't teach anything except group tasks.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Not sure yet | Mar 2025
+Pretty awful. Two exams every other week, one coding and one written, worth 75% of your grade. She barely lectures in her mandatory lecture where you spend half the time doing busy work in groups. You also have to show up to lab twice a week. Avoid if you're new to coding and can't self-study.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Mar 2025
+The material is difficult if you don't have prior knowledge but Professor Alfaro structures her course well. Practice the quizlet and the chapter 13 problems and you should be fine. She also allows 4 retakes on lecture and lab exams. She guarantees a C- if you put in the effort.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: A+ | Feb 2025
+Lectures are completely useless but mandatory. She never replies to students' emails. Overall do not take unless you have to.
+
+Quality: 2.0 | Difficulty: 3.0 | Grade: A+ | Feb 2025
+New to Python student review: 12-16 hours of work outside of class per week. Mandatory attendance 2-4 days a week. 2 exams bi-weekly. Alfaro is caring but dislikes lecturing and leans on videos. 4 retake exams available. Made Friday attendance mandatory mid-quarter.
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: A+ | Feb 2025
+Lectures felt pretty useless. Lab and lecture exams biweekly. She offers retakes. Taught primarily through Zybooks. Class is easy if you've coded before, but otherwise moves relatively fast especially the second half of the quarter. Go to office hours if you have questions.
+
+Quality: 4.0 | Difficulty: 2.0 | Grade: A+ | Feb 2025
+True that she doesn't teach in lectures, but she will go over concepts if you ask. Very structured class and hard to fail. A lot of work. Class is easy if you have some prior programming knowledge.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: C- | Feb 2025
+As a person she's very sweet. However, her class is extremely difficult and she isn't the best lecturer. Her LAs and TAs also aren't very helpful and usually just say they don't know to questions.
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: A- | Dec 2024
+The professor was friendly and taught okay. Two exams every other week and class was mandatory every day. Labs were way harder than material taught in class.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: B+ | Dec 2024
+She was a great professor and cared about her students. There are just a lot of assignments so it's easy to fall behind. Go to office hours if you really need help, she's super nice. Use your retakes on lab exams, not lecture exams.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A- | Dec 2024
+Fast paced, self-study beforehand helps if you've never programmed before. Weekly homework through Zybooks, biweekly lab and lecture exams, 1-2 projects. Lectures were mediocre but the LAs were great.
+
+Quality: 4.0 | Difficulty: 2.0 | Grade: A | Dec 2024
+She doesn't teach a lot in lectures but the material isn't that complicated. If you set 3 hours a week aside, getting a B or A isn't too hard. Tests are easy if you do the optional study guides and practice problems.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Dec 2024
+First time taking a CS course. She doesn't teach in lectures but gives you a lot of resources to succeed on your own — Zybooks, weekly partner labs, practice exam questions, retakes. Lecture and lab exams every other week. Totally fair and doable.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Dec 2024
+Exams every 2 weeks and learning is mostly done through Zybooks. There are retakes for exams which was pretty chill. Not too bad of a class if you put in a few hours every day.
+
+Quality: 2.0 | Difficulty: 4.0 | Grade: B | Dec 2024
+This class depends on how much time you put into self-learning. She will not teach you at all. If you are completely new to coding, don't take this professor's class. If you put in much time, a B is doable.
+
+Quality: 4.0 | Difficulty: 2.0 | Grade: A | Dec 2024
+She doesn't teach in actual lecture time but teaches through video lectures — watch them. She explains in the first week why she doesn't use lecture time to teach and gives lots of resources to learn on your own. The final was a group final, not cumulative, and only worth 7% of your grade.
+
+Quality: 1.0 | Difficulty: 3.0 | Grade: A- | Dec 2024
+6+ assignments every week, a lecture and lab exam every other week, 0 useful lectures, 99% self-taught from Zybooks. This is the worst class setup I've ever seen. She doesn't teach anything, all self-taught.
+
+Quality: 1.0 | Difficulty: 3.0 | Grade: Not sure yet | Nov 2024
+If you can, avoid. She doesn't teach and the class is essentially entirely self-taught. Her automated grading system makes everything harder. She is not accessible and TAs and LAs can barely answer your questions about exam scores.
+
+Quality: 3.0 | Difficulty: 2.0 | Grade: A | Nov 2024
+I had prior CS experience so the content was pretty easy. Never learned anything in lectures. Lots of reading and learning on your own through Zybooks, but she has a lot of resources you can reach out to. Labs mandatory.
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: A | Nov 2024
+ICS 31 is a fast-paced class for those who have not learned Python before. Everything is learned through Zybooks along with lecture videos. Tests every other Monday and Tuesday, and labs are mandatory. Prof Alfaro is nice but if you need help get it early.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: B+ | Aug 2024
+Alfaro's ICS 31 is a fast-paced course but she provides plenty of resources. With dedication and self-practice, it's manageable.
+
+Quality: 4.0 | Difficulty: 2.0 | Grade: A+ | Apr 2024
+Professor Alfaro gets a bad rep. Learning programming is like learning a new language. The class is very fast paced and if you are not ready you will be behind, but she provides a lot of resources and ways for students to get intuition for programming and problem solving.
+
+Quality: 5.0 | Difficulty: 1.0 | Grade: A | Apr 2024
+Very caring professor, accessible outside of class. Easy class if you read the textbook.
+
+Quality: 2.0 | Difficulty: 4.0 | Grade: A | Mar 2024
+As someone completely new to programming, reading off the online textbook wasn't the most useful way to do things. She barely lectures and class time is mostly dedicated to tests or group formative assessments. She is nice and offers support through office hours. Offers retakes for exams.
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: B | Mar 2024
+The jump from week 4-5 is insane. The projects are insane — you're expected to go from zero to very proficient very quickly. She does give you a lot of tries to make mistakes though.
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: B | Mar 2024
+She's really helpful and offers retakes for lecture and lab exams. If this is your first time coding, be prepared to self-practice and go to all resources you can. She let us know that if we put in the effort, we would at least get a B.
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: A+ | Jan 2024
+The material is incredibly easy. Alfaro herself is okay — she's nice enough, caring, and a decent lecturer. She structures the class in a way that makes it seem much more intense than it needs to be, and it's fairly test-heavy. There are a lot of assignments.
+
+Quality: 5.0 | Difficulty: 2.0 | Grade: A | Dec 2023
+This professor is amazing. She truly cares about students and their wellbeing, and helps them achieve their desired grade with no judgement. She understands that students may struggle and has really been there to help both the whole class and individual students who need more assistance.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Dec 2023
+She's a chill and nice professor. You're mostly graded on lab exams and lecture exams with retakes available. There is group work every week for the labs. The content is taught manageably, just don't procrastinate too much.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A+ | Dec 2023
+Biweekly lecture and lab exams. Lab exams are very easy — just do the Zybook past lab exam questions. Lecture exams are more challenging but there are retakes. Easy to get an A.
+
+Quality: 4.0 | Difficulty: 2.0 | Grade: A | Nov 2023
+Pretty cool professor and very fun. The class is based on biweekly exams. The content is mostly self taught but there are helpful lecture videos. Minimal lecturing in class, basically just group work. Labs are partnered. Two big projects. Overall a decent intro class.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A | Oct 2023
+After actually taking this professor, I actually enjoyed her teaching style. She gave us lots of practice in class and the Zybooks activities were digestible. Just beware of the projects, they're pretty challenging — don't procrastinate.
+
+Quality: 2.0 | Difficulty: 4.0 | Grade: B+ | Apr 2023
+She was an average professor. She provides some resources and is generally nice, but that's about it. You'll learn mainly through Zybooks and other resources you find on your own. How difficult the class is depends on how much time and effort you're willing to put in.
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: A | Mar 2023
+Professor Alfaro really isn't that bad compared to some other ICS professors. While most of the material is learned through Zybooks, she's pretty helpful if you go to her office hours, which 95% of students never utilize. The workload is definitely heavy but manageable.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: C- | Mar 2023
+She has no lectures and puts them online, so it is hard to learn the material unless you teach yourself. There are 2 tests every 2 weeks and 2 zyprojects which she doesn't prepare you for. Overall the class is workable if you teach yourself everything.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: Incomplete | Feb 2023
+Does not prepare you for the big Zybooks project on week 7, which mainly requires working knowledge of content covered only a week prior. People who do well have been coding for a long time. Prepare yourself for the week 7 project.
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: A+ | Feb 2023
+Without any Python experience, going into this class is awful. Most of her content is just through Zybooks and she doesn't do anything practical in her lectures. The level of difficulty should not be considered introductory.
+
+Quality: 3.0 | Difficulty: 4.0 | Grade: B+ | Jan 2023
+Nice person, but as a professor she fails to utilize her time effectively to teach programming. A lot of the time is spent learning on your own reading the textbook. Exams every two weeks but you are given a certain number of retakes.
+
+Quality: 3.0 | Difficulty: 4.0 | Grade: A- | Jan 2023
+Her lectures may not be the most helpful since she often makes it a Q&A session. You'll be doing most of your learning in Zybooks. Prepare for in-lecture written exams and lab coding exams every week, and grind the two big projects.
+
+Quality: 3.0 | Difficulty: 5.0 | Grade: A | Jan 2023
+The content itself is very difficult but the professor herself is caring and tries to provide help as much as she can. You basically have to teach yourself throughout the course from Zybooks and labs. It is not easy for beginners.
+
+Quality: 3.0 | Difficulty: 3.0 | Grade: A+ | Jan 2023
+I spent around 30 hours each week on this one class. The labs start out easy but get very difficult around week 5. There were lots of office hours and instructions for each assignment were very clear. Difficult class but has lots of learning opportunities.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: B+ | Jan 2023
+Biggest complaints are from the lectures and labs. Both are not used in a time efficient manner. The lectures are not very instructional at all, and the labs occur in partners where you essentially share a keyboard. The class feels like it is made way more difficult than it needs to be.
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: B+ | Dec 2022
+The class was really hard for a beginner class but Professor Alfaro was really helpful and accessible outside of class, helping many students during lab and office hours.
+
+Quality: 3.0 | Difficulty: 4.0 | Grade: B+ | Dec 2022
+I can clearly tell she cares about her students but the first few weeks were difficult because I had zero coding experience. She would test us on theory that she skimmed over. Leveled out near the end with more practical problems. Do the Zybook practice problems — she tests on random stuff from there.
+
+Quality: 2.0 | Difficulty: 3.0 | Grade: A- | Dec 2022
+Need to study on your own through Zybooks, she does not teach at all. But the grading criteria is fine, you can drop the lowest lab which is good.

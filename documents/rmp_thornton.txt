@@ -1,0 +1,205 @@
+SOURCE: rmp_thornton_ics32
+COURSE: ICS 32
+PROFESSOR: Alex Thornton
+TYPE: rmp_reviews
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: A | Nov 2022
+I've taken Thornton in prior years, and he's always been rude and irritable in office hours. God forbid you step out of line or he singles you out and berates you loudly. Looking at how he's teaching ICS 33 this qtr, I'm glad his terrible personality and bad-temper is finally getting exposed.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B+ | May 2022
+Super chill professor, does basically everything online. Explains the programming concepts very well and makes them easier to grasp. Projects are tough and time-consuming but also fairly interesting.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Mar 2022
+Thornton is an amazing teacher, always clearly explaining concepts and answering questions with full patience and never making someone feel like they're less than for not knowing something. Projects and homeworks are very manageable as long as you start early, and the final project was the easiest of all.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Mar 2022
+Great lecturer, understands how to keep students buckled in and excited. Start projects early and you'll 100% be fine.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A- | Mar 2022
+All lectures pre-recorded, accessible OH and labs. I had to retake this class. To succeed, you need to time manage and don't fall behind on assignments. Watch lectures to do the weekly exercise sets.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: Not sure yet | Mar 2022
+My favorite professor in the ICS department! His lectures are amazing and easy to digest despite the challenging subject material. He is very accessible outside of class and the difficulty level of the projects and exercise sets were perfect. Learned a lot and was able to build off ICS31 really well. Definitely recommend taking him for 32!
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Jan 2022
+He's a great overall professor. Your grade is made up of a few practice exercises, 6 projects, and 1 final project. The 6 projects are time-consuming, but if you start early there's nothing to stress about. The final project was the easiest out of all of them.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A- | Mar 2021
+Great teacher overall, responsive and understanding.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Mar 2021
+You will really learn a lot from Thornton and his lectures. There's no need to read his notes if you watch the lectures. He will teach you everything you need to do the projects. Weekly exercise sets are not too bad either. He also responds to questions super quickly. Best professor for ICS 32!
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A- | Jun 2020
+By far the best professor in the ICS department. There's a major curve at the end and it's fairly easy to do well as long as you score well on the projects.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Mar 2020
+Professor Thornton is really good. He is always there to help students and he really curves a lot.
+
+Quality: 1.0 | Difficulty: 4.0 | Grade: B+ | Aug 2019
+He can be very rude when you ask him questions. If he's having a bad day, he shouldn't take it out on students. One time, he accused me of being lazy when I just wanted to know if I could reuse his sample code for a part of my project.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Apr 2019
+Best professor ever at UC Irvine. Project 4 was the hardest and cost lots of time, be sure to start early. The exams were pretty easy, just read and understand his notes.
+
+Quality: 2.0 | Difficulty: 5.0 | Grade: B+ | Apr 2019
+His projects 3, 4, and 5 are way too hard. His midterm and final are so difficult and the average on them is usually a C or less.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: Not sure yet | Mar 2019
+A professor that actually teaches. Project 4 is the most tough project. We are given less time for it and nothing in the notes provide any hints. Start early or you will regret it.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: B | Mar 2019
+The projects are not very hard but START EARLY ON PROJECT 4! Alex is a good professor and his lectures are interesting.
+
+Quality: 2.0 | Difficulty: 4.0 | Grade: Not sure yet | Mar 2019
+Thornton is a good professor. However, it's not a good idea to set up an overwhelming project for ICS 32 students. It could make students have no idea where to start and reduce passion and confidence.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A | Feb 2019
+Great guy but lectures get boring. Curves everything at end but nothing individually. No need to go to lectures, his notes have everything. Program 4 gets stupid. You learn a lot if you try!
+
+Quality: 5.0 | Difficulty: 2.0 | Grade: Not sure yet | Dec 2018
+Professor Thornton is an amazing lecturer and explains concepts very well. He is also very accessible outside of class and cares about his students. Projects are difficult so make sure to start early. Exams require a good grasp of concepts and every topic is fair game.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Jul 2018
+Gives amazing lectures, assigns projects that are fun to do, grades the harder projects generously. Automated tests used to grade projects can be tricky.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Jun 2018
+Best professor at UCI so far. His lectures always flew by since he knows how to teach. When doing coding examples, he always explains WHY he chooses to solve a problem the way he does. Exams were difficult but not impossible. Projects were hard, go to another lab section if your TA isn't helping you.
+
+Quality: 4.0 | Difficulty: 5.0 | Grade: C+ | Jun 2018
+Thornton is not an easy professor. Be prepared to spend a lot of time on this class and START YOUR PROJECTS EARLY. For midterm and final, read his notes — everything is mentioned in his notes at some point.
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: B+ | Mar 2018
+The class is a big leap from ICS 31 so be prepared to work a lot harder. The projects are difficult but doable if you start early. The midterm and final are very hard with no practice exams. There is a generous curve at the end.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Mar 2018
+The projects in this class are totally harder than the previous class. I had an A+ in ICS 31 but struggled badly here. He won't give any sample exams.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A- | Mar 2018
+Thornton is solid! He's quirky and funny and really makes concepts clear. He has online notes that are basically his lectures which are really helpful. His projects are a bit challenging but teach you a lot.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Mar 2018
+One of the best ICS lecturers at UCI. Unlike most ICS professors, he didn't just teach programming concepts, but also provided insight on how to go about programming something interesting.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Jan 2018
+This man is the best of the CS Department of UCI.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A | Jan 2018
+His programming projects are challenging, but not too hard to solve. His midterm and final are not too hard, but you must be careful with those minor details of Python.
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: B- | Jan 2018
+Go to lectures even though it's not mandatory — it helps you for the projects. One midterm and final, 5 projects. Don't worry if you're not the best tester, just do well on the projects and you should pass.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Dec 2017
+Alex Thornton teaches good programming and design through intuitive projects. Lectures are amazing, notes and instructions are concise and focused. Just show up to lecture, review the notes, and start the projects early. Go to office hours if you're struggling.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: Not sure yet | Dec 2017
+There can be bad teachers who teach easy classes, and good teachers who teach hard classes. This is an example of a great teacher who teaches a difficult class. He is vibrant, engaging, and really responsive when you ask for help.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: Not sure yet | Dec 2017
+While the course is difficult by nature, Thornton tries hard to keep the lectures interesting and applicable. The final projects were a bit too difficult to finish given the time constraints, but the overall difficulty is manageable with lecture attendance.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Nov 2017
+Expects you to know everything ahead of time and makes you feel bad if you don't. Labs are very open ended and he doesn't help in office hours. Exams are really hard.
+
+Quality: 1.0 | Difficulty: 5.0 | Grade: Not sure yet | Oct 2017
+Focus on so many little things. The projects are crazy long and complicated. Very difficult.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A+ | Jul 2017
+Alex is one of the best professors I've ever had. His lectures are amazing. You can learn a lot from the projects he assigns. It's not hard to get a good grade as long as you really do your work.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: B+ | Jul 2017
+Favorite professor thus far at UCI. I highly respect and recommend Thornton.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Jul 2017
+Incredible professor. Thornton's enthusiasm makes his students enjoy the work. Huge curve at the end — the final was very hard, I got a D but still ended up with an A. An 83% overall grade was still an A.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Jun 2017
+Thornton's live coding along with detailed notes online will ensure you have all you need to do the projects. He teaches great coding practice, and the projects are just difficult enough to be good mediums to apply what he teaches.
+
+Quality: 5.0 | Difficulty: 2.0 | Grade: A | May 2017
+A genuine professor that understands students. His lectures were really helpful towards the programming assignments. Missing lecture isn't a big deal since he posts notes online, but it's best to read them regardless.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: Not sure yet | Apr 2017
+An eccentric and warm-hearted person who makes his intentions clear with his teaching. Class is reasonably difficult and he gives good lectures without making you fall asleep.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A- | Apr 2017
+Thornton gives AMAZING lectures. He live-codes in lecture from scratch so you know exactly what he's doing. He also posts his lecture code online along with very detailed notes. His projects get progressively more difficult, so make sure you know your ICS 31 concepts.
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: Not sure yet | Mar 2017
+ICS 32 is a HUGE step up from ICS 31. The projects and midterm/final are a lot harder. He's a good professor, very engaging and clearly knows what he's talking about. There is a generous curve.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Mar 2017
+He has fantastic and engaging lectures. Computer science has never been this interesting before.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Dec 2016
+Top notch professor. You will look forward to going to lectures.
+
+Quality: 5.0 | Difficulty: 4.0 | Grade: A | Dec 2016
+Thornton is a brilliant professor — his lectures are insightful, informative, and entertaining. The projects require a fair amount of work but are fun and interesting. His exams are difficult with conceptual and coding questions. He curves the class generously at the end.
+
+Quality: 5.0 | Difficulty: 5.0 | Grade: A | Dec 2016
+Labs are doable and fun. Exams are tricky and require a lot of reading and practice. Very good and enthusiastic lecturer.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: Not sure yet | Nov 2016
+The best professor.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A | Mar 2016
+Written tests may have a few tricky questions so make sure to study the notes. Keep procrastination to a minimum on programs, especially anything Othello-related.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: B | Mar 2016
+He is definitely a passionate and helpful lecturer but can go on talking about irrelevant things sometimes. The labs are a huge jump from ICS 31 and are pretty hard.
+
+Quality: 5.0 | Difficulty: 2.0 | Grade: A | Mar 2016
+Thornton is definitely one of the most interesting and responsible professors. He can give inspiration especially at the beginning of CS study. The final grade turns out great even if you feel bad about the final.
+
+Quality: 4.0 | Difficulty: 4.0 | Grade: Not sure yet | Mar 2016
+HUGE jump from ICS 31. Coming from someone with no experience other than ICS 31, I found ICS 32 to be manageable and rewarding. The projects are long but interesting — don't put them off to the last minute.
+
+Quality: 3.5 | Difficulty: 4.0 | Grade: Not sure yet | Mar 2016
+ICS 32 takes too much of your time if you're not the strongest coder yet. It's a big jump from 31, but Thornton is a very energetic and helpful guy. You're forced to take notes and apply them to projects.
+
+Quality: 4.5 | Difficulty: 4.0 | Grade: Not sure yet | Mar 2016
+ICS 32 is a giant jump from ICS 31. Alex does a great job teaching and helps you get ready for real world programming applications. Attend every lecture and always start projects ahead of time.
+
+Quality: 4.5 | Difficulty: 3.0 | Grade: Not sure yet | Dec 2015
+Great professor! The projects are really cool and fun, and his lectures were the best.
+
+Quality: 4.5 | Difficulty: 3.0 | Grade: Not sure yet | Oct 2015
+I learn a lot in lecture. He takes very thorough notes about every topic and uploads them to the website. Freely answers questions in lecture.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: A | Jul 2015
+Great lectures. Out of all the ICS 30 series professors, his assignments are the most practical and down-to-earth.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: A | Jun 2015
+Excellent lecturer but not an easy A. You must attend every lecture and listen carefully to do well on every project.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: Not sure yet | May 2015
+You learn a lot in this course. Make sure you understand everything in the lectures and don't procrastinate on the labs. They will probably take longer than you think.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: B+ | Apr 2015
+Best professor teaching me since the beginning of this school year. His lectures are truly interactive and interesting. Lab work takes up plenty of time and the exams can go tricky, but it's nice to have it curved.
+
+Quality: 4.5 | Difficulty: 3.0 | Grade: A- | Mar 2015
+He is a great lecturer, very helpful and responsive. Spend time doing the projects and make sure they do everything asked. Study code examples in full detail for midterm and final as they are hard. Curve saved my grade.
+
+Quality: 4.5 | Difficulty: 2.0 | Grade: Not sure yet | Mar 2015
+A very enthusiastic lecturer. Explains materials very clearly and keeps you engaged. Has clear grading criteria and tells you exactly what he expects. The midterm and final are fairly difficult but the curve is pretty generous at the end.
+
+Quality: 4.0 | Difficulty: 3.0 | Grade: Not sure yet | Mar 2015
+Alex is an amazing CS professor, probably one of the best in the department. His lectures are enthusiastic but can sometimes be a bit repetitive. Projects are interesting but challenging. Midterms and final were tricky. Alex also works as a software engineer which adds real-world perspective.
+
+Quality: 5.0 | Difficulty: 3.0 | Grade: Not sure yet | Mar 2015
+He makes a fundamental programming class really funny and interesting. You HAVE to understand and do all the labs in order to do well on his exams, which are tricky.
+
+Quality: 4.5 | Difficulty: 5.0 | Grade: Not sure yet | Mar 2015
+Very enthusiastic and fun to listen to! Very responsive professor and gives uplifting speeches. Projects are very hard and require a lot of time. The midterm is very tricky. However, there is a generous curve.
+
+Quality: 4.5 | Difficulty: 3.0 | Grade: Not sure yet | Nov 2014
+He's a good professor. He actually codes in class to show you how things work. Labs are pretty easy but ask for help if needed. He's a nice guy and funny.
+
+Quality: 4.5 | Difficulty: 3.0 | Grade: B- | Jul 2014
+Thornton's lectures are hilarious and interactive. He's a real chill, go-with-the-flow type of guy but you definitely learn a lot in this course. You might have a mild heart attack when you see your first midterm score but the final curve of the class is awesome.
+
+Quality: 5.0 | Difficulty: 2.0 | Grade: Rather not say | Apr 2014
+Great professor! Very passionate and humorous. This class was challenging and time-consuming, but it really brought up my interest in CS.

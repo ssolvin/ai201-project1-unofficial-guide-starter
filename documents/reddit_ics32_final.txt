@@ -1,0 +1,15 @@
+SOURCE: reddit_ics32_final
+COURSE: ICS 32
+TYPE: reddit_thread
+
+POST: final ics 32 with krone martins
+
+hi! i am really worried about the ics 32 final with krone martins, and was wondering if anyone has any tips or insight on the format?
+
+COMMENT:  Took it 2 years ago so it might’ve changed, but it was ridiculously easy. I think everyone struggled on the projects, so the final was basically a grade boost. It was a canvas quiz, 15-20 easy multiple choice questions 
+
+COMMENT:  ah okay thank you! i am nervous because he's like saying that it is like based on the labs but i only completed up to week 4 since he drops 10 so now idk if i am screwed 😅😅 
+
+COMMENT:  Hi, currently taking the class too. In our lectures, he has repeatedly said that we would have to hand-write code on the final. Likely, we will be given printouts of code similar to the labs and be asked to write a function, rearrange the code for better flow, etc. If you ever took an AP or IB comp sci class, it sounds similar to that. The best way to get info is to just ask him directly about the final.
+
+As for the labs, the idea is that if you’ve been doing the labs and CAN do them, you’ll be prepared for the final. So even though labs get dropped, you should still try to do the lab assignments because they are basically our reference/guide for the difficulty level and skill sets required for the final.

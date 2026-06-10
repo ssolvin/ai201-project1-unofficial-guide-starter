@@ -1,0 +1,13 @@
+SOURCE: reddit_ics31_struggling
+COURSE: ICS 31
+TYPE: reddit_thread
+
+POST: Struggling in ICS 31 I'm currently taking ICS 31 and expect my final grade to be around a B-. I had no programming experience before this class, and starting from the loop section I've been struggling a lot. Coding has been taking me much longer to understand and complete assignments. I'm worried about taking ICS 32, especially about keeping up. Is Prof. Moshirpour's ICS 32 considered very difficult, especially in terms of exams?
+
+COMMENT: The biggest source of problems for students in ICS 31 is skipping classes, not doing readings/homework fully, and poor time management on programming assignments. You are scheduled to spend about 120 hours in ICS 31 (10 weeks at 12 hours/week). If it hasn't clicked yet, expect 20 hours a week. It only gets harder from here, so spend more time up front now than later.
+
+COMMENT: A B- as a final grade is not bad, especially with no prior experience. One thing that really helps is attending ICS tutoring hours — they are located at ICS 2. Just bring questions you were confused about in lecture. They are paid to help you and are your peers, so take advantage of campus resources.
+
+COMMENT: I was in Moshirpour's ICS 32 last year. There was no midterm, only a final. If you attended lectures and completed his practice final, the actual final was relatively easy. The jump between ICS 31 and 32 ramps up exponentially — you'll be required to complete larger, more difficult projects within a week or two, so it's harder without a strong ICS 31 foundation. If there are still concepts you didn't understand after ICS 31, study those over break and try building a small project on your own to test your knowledge.
+
+COMMENT: Talk to the LAs and ask how they would approach a problem. The ICS tutoring center and LARC probably have drop-in hours. Start commenting and drawing out your logic in English first — Python is just a translation of your logic.
